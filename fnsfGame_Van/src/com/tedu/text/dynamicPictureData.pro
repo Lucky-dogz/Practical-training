@@ -1,0 +1,61 @@
+fire_01 = image/FishCatcher/component/fire/fire01
+fire_02 = image/FishCatcher/component/fire/fire02
+fire_03 = image/FishCatcher/component/fire/fire03
+fire_04 = image/FishCatcher/component/fire/fire04
+fire_05 = image/FishCatcher/component/fire/fire05
+fire_06 = image/FishCatcher/component/fire/fire06
+fire_07 = image/FishCatcher/component/fire/fire07
+fire_08 = image/FishCatcher/component/fire/fire08
+fire_09 = image/FishCatcher/component/fire/fire09
+fire_10 = image/FishCatcher/component/fire/fire10
+fire_11 = image/FishCatcher/component/fire/fire11
+
+gold_coin = image/FishCatcher/component/gold_coin
+
+point_40 = image/FishCatcher/component/high_point/40
+point_50 = image/FishCatcher/component/high_point/50
+point_60 = image/FishCatcher/component/high_point/60
+point_70 = image/FishCatcher/component/high_point/70
+point_80 = image/FishCatcher/component/high_point/80
+point_90 = image/FishCatcher/component/high_point/90
+point_100 = image/FishCatcher/component/high_point/100
+point_120 = image/FishCatcher/component/high_point/120
+point_150 = image/FishCatcher/component/high_point/150
+
+ripple = image/FishCatcher/component/ripple
+
+fish01_swim = image/FishCatcher/fish/fish_swim/fish01_swim
+fish02_swim = image/FishCatcher/fish/fish_swim/fish02_swim
+fish03_swim = image/FishCatcher/fish/fish_swim/fish03_swim
+fish04_swim = image/FishCatcher/fish/fish_swim/fish04_swim
+fish05_swim = image/FishCatcher/fish/fish_swim/fish05_swim
+fish06_swim = image/FishCatcher/fish/fish_swim/fish06_swim
+fish07_swim = image/FishCatcher/fish/fish_swim/fish07_swim
+fish08_swim = image/FishCatcher/fish/fish_swim/fish08_swim
+fish09_swim = image/FishCatcher/fish/fish_swim/fish09_swim
+fish10_swim = image/FishCatcher/fish/fish_swim/fish10_swim
+fish11_swim = image/FishCatcher/fish/fish_swim/fish11_swim
+fish12_swim = image/FishCatcher/fish/fish_swim/fish12_swim
+fish13_swim = image/FishCatcher/fish/fish_swim/fish13_swim
+fish14_swim = image/FishCatcher/fish/fish_swim/fish14_swim
+fish15_swim = image/FishCatcher/fish/fish_swim/fish15_swim
+fish16_swim = image/FishCatcher/fish/fish_swim/fish16_swim
+fish17_swim = image/FishCatcher/fish/fish_swim/fish17_swim
+
+fish01_caught = image/FishCatcher/fish/fish_caught/fish01_caught
+fish02_caught = image/FishCatcher/fish/fish_caught/fish02_caught
+fish03_caught = image/FishCatcher/fish/fish_caught/fish03_caught
+fish04_caught = image/FishCatcher/fish/fish_caught/fish04_caught
+fish05_caught = image/FishCatcher/fish/fish_caught/fish05_caught
+fish06_caught = image/FishCatcher/fish/fish_caught/fish06_caught
+fish07_caught = image/FishCatcher/fish/fish_caught/fish07_caught
+fish08_caught = image/FishCatcher/fish/fish_caught/fish08_caught
+fish09_caught = image/FishCatcher/fish/fish_caught/fish09_caught
+fish10_caught = image/FishCatcher/fish/fish_caught/fish10_caught
+fish11_caught = image/FishCatcher/fish/fish_caught/fish11_caught
+fish12_caught = image/FishCatcher/fish/fish_caught/fish12_caught
+fish13_caught = image/FishCatcher/fish/fish_caught/fish13_caught
+fish14_caught = image/FishCatcher/fish/fish_caught/fish14_caught
+fish15_caught = image/FishCatcher/fish/fish_caught/fish15_caught
+fish16_caught = image/FishCatcher/fish/fish_caught/fish16_caught
+fish17_caught = image/FishCatcher/fish/fish_caught/fish17_caught

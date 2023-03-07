@@ -1,0 +1,159 @@
+bg_0 = image/FishCatcher/background/fishlightbg_0.jpg
+bg_1 = image/FishCatcher/background/fishlightbg_1.jpg
+bg_2 = image/FishCatcher/background/fishlightbg_2.jpg
+bg_3 = image/FishCatcher/background/fishlightbg_3.jpg
+bg_4 = image/FishCatcher/background/fishlightbg_4.jpg
+bg_5 = image/FishCatcher/background/fishlightbg_5.jpg
+bg_6 = image/FishCatcher/background/fishlightbg_6.jpg
+bg_loading = image/FishCatcher/background/progress_bg.jpg
+bg_setting = image/FishCatcher/background/setting.jpg
+bg_start = image/FishCatcher/background/start.jpg
+
+bullet_01 = image/FishCatcher/component/bullet/1.png
+bullet_02 = image/FishCatcher/component/bullet/2.png
+bullet_03 = image/FishCatcher/component/bullet/3.png
+bullet_04 = image/FishCatcher/component/bullet/4.png
+bullet_05 = image/FishCatcher/component/bullet/5.png
+bullet_06 = image/FishCatcher/component/bullet/6.png
+bullet_07 = image/FishCatcher/component/bullet/7.png
+bullet_08 = image/FishCatcher/component/bullet/8.png
+bullet_09 = image/FishCatcher/component/bullet/9.png
+bullet_10 = image/FishCatcher/component/bullet/10.png
+bullet_11 = image/FishCatcher/component/bullet/11.png
+bullet_12 = image/FishCatcher/component/bullet/12.png
+bullet_13 = image/FishCatcher/component/bullet/13.png
+bullet_14 = image/FishCatcher/component/bullet/14.png
+bullet_15 = image/FishCatcher/component/bullet/15.png
+bullet_16 = image/FishCatcher/component/bullet/16.png
+bullet_17 = image/FishCatcher/component/bullet/17.png
+bullet_18 = image/FishCatcher/component/bullet/18.png
+bullet_19 = image/FishCatcher/component/bullet/19.png
+bullet_20 = image/FishCatcher/component/bullet/20.png
+bullet_21 = image/FishCatcher/component/bullet/21.png
+bullet_22 = image/FishCatcher/component/bullet/22.png
+bullet_23 = image/FishCatcher/component/bullet/23.png
+bullet_24 = image/FishCatcher/component/bullet/24.png
+bullet_25 = image/FishCatcher/component/bullet/25.png
+bullet_26 = image/FishCatcher/component/bullet/26.png
+bullet_27 = image/FishCatcher/component/bullet/27.png
+
+fire_1 = image/FishCatcher/component/fire/fire01/net_11.png
+fire_2 = image/FishCatcher/component/fire/fire01/net_21.png
+fire_3 = image/FishCatcher/component/fire/fire01/net_31.png
+fire_4 = image/FishCatcher/component/fire/fire01/net_41.png
+fire_5 = image/FishCatcher/component/fire/fire01/net_51.png
+fire_6 = image/FishCatcher/component/fire/fire01/net_61.png
+fire_7 = image/FishCatcher/component/fire/fire01/net_71.png
+fire_8 = image/FishCatcher/component/fire/fire01/net_81.png
+fire_9 = image/FishCatcher/component/fire/fire01/net_91.png
+fire_10 = image/FishCatcher/component/fire/fire01/net_101.png
+fire_11 = image/FishCatcher/component/fire/fire01/net_111.png
+
+net_1 = image/FishCatcher/component/net/net01.png
+net_2 = image/FishCatcher/component/net/net02.png
+net_3 = image/FishCatcher/component/net/net03.png
+net_4 = image/FishCatcher/component/net/net04.png
+net_5 = image/FishCatcher/component/net/net05.png
+net_6 = image/FishCatcher/component/net/net06.png
+net_7 = image/FishCatcher/component/net/net07.png
+net_8 = image/FishCatcher/component/net/net08.png
+net_9 = image/FishCatcher/component/net/net09.png
+net_10 = image/FishCatcher/component/net/net10.png
+net_11 = image/FishCatcher/component/net/net11.png
+
+num_0 = image/FishCatcher/component/num/num_0.png
+num_1 = image/FishCatcher/component/num/num_1.png
+num_2 = image/FishCatcher/component/num/num_2.png
+num_3 = image/FishCatcher/component/num/num_3.png
+num_4 = image/FishCatcher/component/num/num_4.png
+num_5 = image/FishCatcher/component/num/num_5.png
+num_6 = image/FishCatcher/component/num/num_6.png
+num_7 = image/FishCatcher/component/num/num_7.png
+num_8 = image/FishCatcher/component/num/num_8.png
+num_9 = image/FishCatcher/component/num/num_9.png
+num_x = image/FishCatcher/component/num/num_x.png
+
+ui_add = image/FishCatcher/component/ui_panel/add.png
+ui_sub = image/FishCatcher/component/ui_panel/sub.png
+ui_bottom_gold = image/FishCatcher/component/ui_panel/bottom_gold.png
+ui_bottom_time = image/FishCatcher/component/ui_panel/bottom_time.png
+ui_bottom = image/FishCatcher/component/ui_panel/bottom.png
+
+gold1=image/FishCatcher/component/gold_coin/gold01.png
+gold2=image/FishCatcher/component/gold_coin/gold02.png
+gold3=image/FishCatcher/component/gold_coin/gold03.png
+gold4=image/FishCatcher/component/gold_coin/gold04.png
+gold5=image/FishCatcher/component/gold_coin/gold05.png
+gold6=image/FishCatcher/component/gold_coin/gold06.png
+gold7=image/FishCatcher/component/gold_coin/gold07.png
+gold8=image/FishCatcher/component/gold_coin/gold08.png
+gold9=image/FishCatcher/component/gold_coin/gold09.png
+
+40_1=image/FishCatcher/component/high_point/40/40_1.png
+40_2=image/FishCatcher/component/high_point/40/40_2.png
+40_3=image/FishCatcher/component/high_point/40/40_3.png
+40_4=image/FishCatcher/component/high_point/40/40_4.png
+40_5=image/FishCatcher/component/high_point/40/40_5.png
+40_6=image/FishCatcher/component/high_point/40/40_6.png
+
+50_1=image/FishCatcher/component/high_point/50/50_1.png
+50_2=image/FishCatcher/component/high_point/50/50_2.png
+50_3=image/FishCatcher/component/high_point/50/50_3.png
+50_4=image/FishCatcher/component/high_point/50/50_4.png
+50_5=image/FishCatcher/component/high_point/50/50_5.png
+50_6=image/FishCatcher/component/high_point/50/50_6.png
+
+60_1=image/FishCatcher/component/high_point/60/60_1.png
+60_2=image/FishCatcher/component/high_point/60/60_2.png
+60_3=image/FishCatcher/component/high_point/60/60_3.png
+60_4=image/FishCatcher/component/high_point/60/60_4.png
+60_5=image/FishCatcher/component/high_point/60/60_5.png
+60_6=image/FishCatcher/component/high_point/60/60_6.png
+
+70_1=image/FishCatcher/component/high_point/70/70_1.png
+70_2=image/FishCatcher/component/high_point/70/70_2.png
+70_3=image/FishCatcher/component/high_point/70/70_3.png
+70_4=image/FishCatcher/component/high_point/70/70_4.png
+70_5=image/FishCatcher/component/high_point/70/70_5.png
+70_6=image/FishCatcher/component/high_point/70/70_6.png
+
+80_1=image/FishCatcher/component/high_point/80/80_1.png
+80_2=image/FishCatcher/component/high_point/80/80_2.png
+80_3=image/FishCatcher/component/high_point/80/80_3.png
+80_4=image/FishCatcher/component/high_point/80/80_4.png
+80_5=image/FishCatcher/component/high_point/80/80_5.png
+80_6=image/FishCatcher/component/high_point/80/80_6.png
+
+90_1=image/FishCatcher/component/high_point/90/90_1.png
+90_2=image/FishCatcher/component/high_point/90/90_2.png
+90_3=image/FishCatcher/component/high_point/90/90_3.png
+90_4=image/FishCatcher/component/high_point/90/90_4.png
+90_5=image/FishCatcher/component/high_point/90/90_5.png
+90_6=image/FishCatcher/component/high_point/90/90_6.png
+
+100_1=image/FishCatcher/component/high_point/100/100_1.png
+100_2=image/FishCatcher/component/high_point/100/100_2.png
+100_3=image/FishCatcher/component/high_point/100/100_3.png
+100_4=image/FishCatcher/component/high_point/100/100_4.png
+100_5=image/FishCatcher/component/high_point/100/100_5.png
+100_6=image/FishCatcher/component/high_point/100/100_6.png
+100_7=image/FishCatcher/component/high_point/100/100_7.png
+100_8=image/FishCatcher/component/high_point/100/100_8.png
+
+120_1=image/FishCatcher/component/high_point/120/120_1.png
+120_2=image/FishCatcher/component/high_point/120/120_2.png
+120_3=image/FishCatcher/component/high_point/120/120_3.png
+120_4=image/FishCatcher/component/high_point/120/120_4.png
+120_5=image/FishCatcher/component/high_point/120/120_5.png
+120_6=image/FishCatcher/component/high_point/120/120_6.png
+120_7=image/FishCatcher/component/high_point/120/120_7.png
+120_8=image/FishCatcher/component/high_point/120/120_8.png
+
+150_1=image/FishCatcher/component/high_point/150/150_1.png
+150_2=image/FishCatcher/component/high_point/150/150_2.png
+150_3=image/FishCatcher/component/high_point/150/150_3.png
+150_4=image/FishCatcher/component/high_point/150/150_4.png
+150_5=image/FishCatcher/component/high_point/150/150_5.png
+150_6=image/FishCatcher/component/high_point/150/150_6.png
+150_7=image/FishCatcher/component/high_point/150/150_7.png
+150_8=image/FishCatcher/component/high_point/150/150_8.png
