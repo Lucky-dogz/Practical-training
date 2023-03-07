@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="easymall.dao.ProductsDao">
+	<select id="allcategories" resultType="String">
+		select name from category
+	</select>
+
+	<select id="prodlist" resultType="easymall.po.Products"
+		parameterType="map">
+		select * from products where status=1 and (price between #{minPrice}
+		and #{maxPrice})
+		<if test="name!=null and name!=''">
+			and name like concat('%',#{name},'%')
+		</if>
+		<if test="category!=null and category!=''">
+			and category=#{category}
+		</if>
+	</select>
+
+	<select id="prodInfo" resultType="easymall.po.Products"
+		parameterType="String">
+		select *from products where id = #{pid}
+	</select>
+
+	<select id="prodclass" resultType="easymall.po.Products"
+		parameterType="String">
+		select *from products where status=1 and category=#{category}
+	</select>
+
+	<select id="oneProduct" resultType="easymall.po.Products"
+		parameterType="String">
+		select *from products where id=#{product_id}
+	</select>
+
+	<insert id="save" parameterType="easymall.po.Products">
+		insert into products(id,name,price,category,pnum,imgurl,description)
+		values(#{id},#{name},#{price},#{category},#{pnum},#{imgurl},#{description});
+	</insert>
+
+	<select id="findByImgurl" parameterType="String" resultType="easymall.po.Products">
+		select * from products where imgurl=#{imgurl}
+	</select>
+
+	<select id="allprods" resultType="easymall.po.Products">
+		select * from products
+	</select>
+	<update id="updateSaleStauts" parameterType="map">
+		update products set status=#{status} where id=#{id}
+	</update>
+	<update id="updateSoldNum" parameterType="map">
+		update products set soldNum=soldNum+#{buynum},pnum=pnum-#{buynum}
+		where id=#{pid}
+	</update>
+
+	<delete id="delprod" parameterType="String">
+		delete from products where
+		id=#{id}
+	</delete>
+
+	<!-- 修改商品 -->
+	<update id="update" parameterType="easymall.po.Products">
+		update products set
+		name=#{name},price=#{price},category=#{category},pnum=#{pnum},description=#{description}
+		where id=#{id}
+	</update>
+</mapper>
