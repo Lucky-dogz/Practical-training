@@ -1,2 +1,2 @@
 # Practical-training
-Software implementation is divided into elementary, intermediate and advanced levels
+Software implementation is divided into simple, medium and advanced levels
